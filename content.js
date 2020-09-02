@@ -1,4 +1,3 @@
-
 (function cr() {
   chrome.runtime.onMessage.addListener(function(request, sender, sendResponse) {
 // Copy Text Method
