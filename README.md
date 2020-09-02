@@ -18,7 +18,9 @@ Note: You'll need all files in a dedicated folder(best practice).
 -= How to Use =-
 
 ~ Right click on a text area and navigate through the menu to choose a CR.
+
 ~ After selecting(clicking) a CR, it will be saved to your clipboard
+
 ~ Now you'll have to either CMD + SHIFT + V, CMD + V(MAC), CTRL + SHIFT + V or CTRL + V(Win) or what goes for you.
 
 
