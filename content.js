@@ -40,33 +40,6 @@
         document.execCommand("insertText", false, toInsert, "Copy", "Paste");
     });
 
-/*
-                   __
-              ,_  :  \
-              ; L_;   ;.
-              `.' `   ` \
-             ,'          ;
-             ; ",        |
-           .-' *         |
-          $    _         ;_
-           \   ;      _.-' )
-            `+*     .'   -')
-             .`._.-'      /
-            ,(      .-   :
-         _.: ; -'.'     `,
-   /\--*"   \/  .'     ;  ;
-  /  \      /-.-'"*.  /    \
- ;__.-*"\.--*"      ;:_..-+'
- \\     :       _.-'       ;
-  \\    *.___.-'           :
- .-\\      \               |
-: ;.-.      \-*""*.        ;
-: : ; ; _.-*"      ;      /
- Y: : '"           ,___.-'
-   Y'  __...___.-*"
-    `"'
-*/
-
   var CR1 = "Whatever text you want to use CR1";
   var CR2 = "Whatever text you want to use CR2";
   var CR3 = "Whatever text you want to use CR3";
