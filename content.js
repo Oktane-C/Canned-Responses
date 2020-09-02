@@ -67,8 +67,6 @@
     `"'
 */
 
-  //Supportt[Non-Technical]
-  //Invocation Name Related
   var CR1 = "Whatever text you want to use CR1";
   var CR2 = "Whatever text you want to use CR2";
   var CR3 = "Whatever text you want to use CR3";
@@ -128,7 +126,7 @@ t!!!!!!!!!!!!!!!!!HR!!!!!!!!!!!!!!!!!!!!!!!!!    '  .! ^~-~
                   z$$k>(9MMMMMMMMMMMM>
                  X#$$$$$@MMMMMMMMMMMM
                  '(?$$$$$BMMMMMMMMMMF
-                   `(?$$$$$8MMMMMMMM
+                   `(?$$$$MMMMMMMM
                      '(?R$$$$$$$$$$$
                         ~:~?#***#"~:
 */
