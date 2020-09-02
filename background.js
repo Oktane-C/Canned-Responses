@@ -53,7 +53,7 @@ chrome.contextMenus.create(
 );
 chrome.contextMenus.create(
     {
-        "title": "Send it to mdodoaca@google.com",
+        "title": "Send it to dodoacacristian@gmail.com",
         "contexts":["editable"],
         "parentId": "Got Feedback?",
         "id": "SendFeedback",
