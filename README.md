@@ -1,9 +1,11 @@
 
 
 # Canned-Responses 
-A simple Chrome extensions to use Canned Responses
+A simple Chrome extensions to use Canned Responses by Cristian Mihai Dodoaca
 
 -= How to Install =-
+
+Note: You'll need all files in a dedicated folder(best practice).
 
 1. Open Chrome
 2. Select the 3dots (hamburger) menu from top right
